@@ -1,0 +1,38 @@
+UXTerm*background:         color_base03
+UXTerm*foreground:         white
+UXTerm*cursorColor:        white
+UXTerm*VT100.geometry:     90x30
+
+UXTerm*faceName:           Ubuntu Mono
+UXTerm*faceSize:		   18
+UXTerm*termName:		   xterm-256color
+
+UXTerm*dynamicColors:      true
+UXTerm*utf8:               2
+UXTerm*eightBitInput:      true
+UXTerm*saveLines:          512
+UXTerm*scrollKey:          true
+UXTerm*scrollTtyOutput:    false
+!UXTerm*scrollBar:          true
+!UXTerm*rightScrollBar:     true
+UXTerm*jumpScroll:         true
+UXTerm*multiScroll:        true
+UXTerm*toolBar:            false
+
+
+UXTerm.color0:            color_base03
+UXTerm.color1:            color_red
+UXTerm.color2:            color_green
+UXTerm.color3:            color_yellow
+UXTerm.color4:            color_blue
+UXTerm.color5:            color_magenta
+UXTerm.color6:            color_cyan
+UXTerm.color7:            color_base1
+UXTerm.color8:            color_base03
+UXTerm.color9:            color_orange
+UXTerm.color10:           color_base01
+UXTerm.color11:           color_base00
+UXTerm.color12:           color_base0
+UXTerm.color13:           color_violet
+UXTerm.color14:           color_base1
+UXTerm.color15:           color_base3
